@@ -1,1 +1,5 @@
-Drone FPV.
+# drone_analyzer.py (future project)
+import cv2
+from cv_utils import detect_objects_tflite, track_objects, ...
+
+# ... (rest of the code) ...
